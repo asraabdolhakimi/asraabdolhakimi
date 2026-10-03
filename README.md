@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Asra 👋
 
-<!--
-**asraabdolhakimi/asraabdolhakimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Politecnico di Torino, interested in software development, computer architecture, embedded systems, and web technologies.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering student at Politecnico di Torino
+- 💻 Interested in C programming, computer architecture, and embedded systems
+- 🌐 Currently developing my skills in web development
+- 🛠️ Building projects to strengthen my practical engineering and programming skills
+- 📍 Turin, Italy
+
+## 🔧 Technologies & Tools
+
+- C
+- Python
+- Git & GitHub
+- CLion
+- Visual Studio Code
+
+## 📚 Currently Learning
+
+- Embedded Systems using C
+- Web Development
+- Advanced programming and computer engineering concepts
+
+## 🚀 Projects
+
+I'm currently building my portfolio. Projects will be added here as I develop them.
