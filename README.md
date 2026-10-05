@@ -27,3 +27,4 @@ I'm a Computer Engineering student at Politecnico di Torino, interested in softw
 ## 🚀 Projects
 
 I'm currently building my portfolio. Projects will be added here as I develop them.
+<!-- Local Git test -->
